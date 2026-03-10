@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Amanda Graham's CV
 ---
-# Isaac Newton
+# Amanda Graham
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
