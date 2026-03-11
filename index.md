@@ -3,89 +3,93 @@ layout: cv
 title: Amanda Graham's CV
 ---
 # Amanda Graham
-Physicist, Mathematician, Cambridge professor.
+Texas State University professor
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="akg79@txstate.edu">akg79@txstate.edu.org</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Associate Professor, School of Criminal Justice and Criminology, Texas State University
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Policing, Public Opinion, Measurement
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Policing
+   Procedural Justice
+   Police Legitimacy
+   Police Effectiveness
+   International Policing
+
+Measurement
+  Survey Construction & Development
+  Scale Construction & Development
+  Item Response Theory
+
+Public Opinion
+
+Evaluation Research
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019`
+__Ph.D., School of Criminal Justice, University of Cincinnati__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013`
+__M.S., Criminology and Criminal Justice, University of Nebraska at Omaha	__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2010`
+__B.A., Psychology, University of Nebraska-Lincoln __
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2023`
+Distinction in Research, College of Behavioral and Social Science, Georgia Southern University
 
-Associate, *French Academy of Science*, Paris, France
+`2022`
+Northeastern Political Science Association Jerry Mileur Award for the Best Paper in American Politics for “Blinded by the White (Nationalism): How Separatist Ideologies Lead People to Discount Threats to Society.” Polity
+
+`2020`
+James L. Maddex Jr. 2020 Paper of the Year Award for “Videos Don’t Lie: African Americans’ Support for Body-Worn Cameras,” Criminal Justice Review
+
+`2020`
+Faculty Award of Excellence: Statesboro (department-level, student and peer nominations), Department of Criminal Justice & Criminology, Georgia Southern University 
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works) -->
+ORCID: 0000-0002-7474-2539
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Faculty Positions
 
-- Warden
-- Minted coins
+`2024-Present`
+__Associate Professor__, School of Criminal Justice and Criminology, Texas State University
+-	2024-Pres. Research Fellow, Texas Crime and Justice Center
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2023-2024`
+__Associate Professor__, Department of Criminal Justice and Criminology, Georgia Southern University
+-	2022-2024, Graduate Program Director, Department of Criminal Justice and Criminology
+
+`2019-2023`
+__Assistant Professor__, Department of Criminal Justice and Criminology, Georgia Southern University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
 
 
