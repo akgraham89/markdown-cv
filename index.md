@@ -49,7 +49,6 @@ __M.S., Criminology and Criminal Justice, University of Nebraska at Omaha__
 __B.A., Psychology, University of Nebraska-Lincoln__
 
 
-
 ## Awards
 
 `2023`
@@ -65,12 +64,10 @@ James L. Maddex Jr. 2020 Paper of the Year Award for “Videos Don’t Lie: Afri
 Faculty Award of Excellence: Statesboro (department-level, student and peer nominations), Department of Criminal Justice & Criminology, Georgia Southern University 
 
 
-
 ## Publications
 
-A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works)
 ORCID: 0000-0002-7474-2539
-
+A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works)
 
 
 ## Faculty Positions
@@ -88,8 +85,7 @@ __Assistant Professor__, Department of Criminal Justice and Criminology, Georgia
 
 
 
-### Footer
-
+###
 Last updated: March 2026
 
 
