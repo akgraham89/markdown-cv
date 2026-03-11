@@ -23,22 +23,22 @@ Policing, Public Opinion, Measurement
 
 Policing
 
-  * _Procedural Justice_
+  * Procedural Justice
    
-  * _Police Legitimacy_
+  * Police Legitimacy
    
-  * _Police Effectiveness_
+  * Police Effectiveness
    
-  * _International Policing_
+  * International Policing
 
    
 Measurement
 
- * _Survey Construction & Development_
+ * Survey Construction & Development
   
- * _Scale Construction & Development_
+ * Scale Construction & Development
   
- * _Item Response Theory_
+ * Item Response Theory
   
 
 Public Opinion
@@ -63,22 +63,22 @@ __B.A., Psychology, University of Nebraska-Lincoln__
 `2023`
 Distinction in Research
 
-- College of Behavioral and Social Science, Georgia Southern University
+* College of Behavioral and Social Science, Georgia Southern University
 
 `2022`
 Northeastern Political Science Association Jerry Mileur Award for the Best Paper in American Politics 
 
-- “Blinded by the White (Nationalism): How Separatist Ideologies Lead People to Discount Threats to Society.” Polity
+* “Blinded by the White (Nationalism): How Separatist Ideologies Lead People to Discount Threats to Society.” Polity
 
 `2020`
 James L. Maddex Jr. 2020 Paper of the Year Award
 
-- “Videos Don’t Lie: African Americans’ Support for Body-Worn Cameras,” Criminal Justice Review
+* “Videos Don’t Lie: African Americans’ Support for Body-Worn Cameras,” Criminal Justice Review
 
 `2020`
 Faculty Award of Excellence: Statesboro 
 
- - Department of Criminal Justice & Criminology, Georgia Southern University, (department-level, student and peer nominations)
+ * Department of Criminal Justice & Criminology, Georgia Southern University, (department-level, student and peer nominations)
 
 
 
