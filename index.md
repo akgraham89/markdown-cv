@@ -61,20 +61,25 @@ __B.A., Psychology, University of Nebraska-Lincoln__
 ## Awards
 
 `2023`
-Distinction in Research,
- - College of Behavioral and Social Science, Georgia Southern University
+Distinction in Research
+
+- College of Behavioral and Social Science, Georgia Southern University
 
 `2022`
 Northeastern Political Science Association Jerry Mileur Award for the Best Paper in American Politics 
- - “Blinded by the White (Nationalism): How Separatist Ideologies Lead People to Discount Threats to Society.” Polity
+
+- “Blinded by the White (Nationalism): How Separatist Ideologies Lead People to Discount Threats to Society.” Polity
 
 `2020`
-James L. Maddex Jr. 2020 Paper of the Year Award 
- - “Videos Don’t Lie: African Americans’ Support for Body-Worn Cameras,” Criminal Justice Review
+James L. Maddex Jr. 2020 Paper of the Year Award
+
+- “Videos Don’t Lie: African Americans’ Support for Body-Worn Cameras,” Criminal Justice Review
 
 `2020`
 Faculty Award of Excellence: Statesboro 
- - (department-level, student and peer nominations), Department of Criminal Justice & Criminology, Georgia Southern University 
+
+ - Department of Criminal Justice & Criminology, Georgia Southern University, (department-level, student and peer nominations)
+
 
 
 ## Publications
