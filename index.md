@@ -6,7 +6,7 @@ title: Amanda Graham's CV
 Texas State University professor
 
 <div id="webaddress">
-<a href="akg79@txstate.edu">akg79@txstate.edu.org</a>
+<a href="akg79@txstate.edu">akg79@txstate.edu</a>
 </div>
 
 
