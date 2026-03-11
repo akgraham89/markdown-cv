@@ -52,11 +52,10 @@ Evaluation Research
 __Ph.D., School of Criminal Justice, University of Cincinnati__
 
 `2013`
-__M.S., Criminology and Criminal Justice, University of Nebraska at Omaha	__
+__M.S., Criminology and Criminal Justice, University of Nebraska at Omaha__
 
 `2010`
-__B.A., Psychology, University of Nebraska-Lincoln __
-
+__B.A., Psychology, University of Nebraska-Lincoln__
 
 
 ## Awards
@@ -85,9 +84,9 @@ Faculty Award of Excellence: Statesboro
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works) -->
 ORCID: 0000-0002-7474-2539
 
+A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works)
 
 
 ## Faculty Positions
@@ -105,8 +104,7 @@ __Assistant Professor__, Department of Criminal Justice and Criminology, Georgia
 
 
 
- ###
-
+###
 Last updated: March 2026
 
 
