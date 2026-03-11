@@ -23,22 +23,22 @@ Policing, Public Opinion, Measurement
 
 Policing
 
-   Procedural Justice
+  * _Procedural Justice_
    
-   Police Legitimacy
+  * _Police Legitimacy_
    
-   Police Effectiveness
+  * _Police Effectiveness_
    
-   International Policing
-   
+  * _International Policing_
 
+   
 Measurement
 
-  Survey Construction & Development
+ * _Survey Construction & Development_
   
-  Scale Construction & Development
+ * _Scale Construction & Development_
   
-  Item Response Theory
+ * _Item Response Theory_
   
 
 Public Opinion
