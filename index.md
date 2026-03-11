@@ -13,47 +13,51 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Associate Professor, School of Criminal Justice and Criminology, Texas State University
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Policing, public opinion, measurement
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Policing
+   Procedural Justice
+   Police Legitimacy
+   Police Effectiveness
+   International Policing
+
+Measurement
+  Survey Construction & Development
+  Scale Construction & Development
+  Item Response Theory
+
+Public Opinion
+
+Evaluation Research
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019`	
+__Ph.D., School of Criminal Justice, University of Cincinnati__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+	- Dissertation: Measuring Procedural Justice: A Case Study in Criminometrics
+	Advisor:	Francis T. Cullen
 
-- Sizar
+`2013`
+__M.S., Criminology and Criminal Justice, University of Nebraska at Omaha__	
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2010`
+__B.A., Psychology, University of Nebraska-Lincoln__ 
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works) -->
 
 ### Journals
 
