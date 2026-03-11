@@ -67,6 +67,7 @@ Faculty Award of Excellence: Statesboro (department-level, student and peer nomi
 ## Publications
 
 ORCID: 0000-0002-7474-2539
+
 A list is also available [online](https://scholar.google.com/citations?hl=en&user=Tw4uXaEAAAAJ&view_op=list_works)
 
 
